@@ -13,7 +13,7 @@ Esta es una calculadora básica hecha con **HTML**, **CSS** y **JavaScript**, di
 ## Demo
 
 Puedes probar la calculadora en línea gracias a GitHub Pages:  
-👉 [Ver calculadora en línea](https://github.com/MaicolZ1551/Red-Calculator-HTML-CSS-JAVASCRIPT)
+👉 [Ver calculadora en línea](https://redcalculator741.netlify.app)
 
 ## Cómo usar
 
